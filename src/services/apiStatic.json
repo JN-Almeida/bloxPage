@@ -1,0 +1,93 @@
+[
+  {
+    "date_limit_edition": "09/03/2021",
+    "title": "Competencias da Liderança Motivacional",
+    "modality": "EAD",
+    "status": "Arquivado",
+    "id": "2714",
+    "reponsibles": ["JM"],
+    "knowledge_color": "#69addb",
+    "knowledge_color2": "#75c2e2",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "title": "Gestão Pública",
+    "modality": "EAD",
+    "status": "Arquivado",
+    "id": "13742",
+    "knowledge_color": "#ead558",
+    "knowledge_color2": "#eedf76",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "title": "Teste1",
+    "modality": "Presencial",
+    "status": "Aprovado",
+    "id": "17442",
+    "knowledge_color": "#b61f30",
+    "knowledge_color2": "#d72636",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "date_limit_edition": "10/04/2021",
+    "title": "Teste2",
+    "modality": "EAD",
+    "status": "Aprovado",
+    "id": "14722",
+    "reponsibles": ["JM"],
+    "knowledge_color": "#72b356",
+    "knowledge_color2": "#7fbe5c",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "title": "Teste3",
+    "modality": "Presencial",
+    "status": "Aprovado",
+    "id": "11857",
+    "reponsibles": ["JM", "UM"],
+    "knowledge_color": "#ead558",
+    "knowledge_color2": "#eedf76",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "title": "Gestão Pública",
+    "modality": "EAD",
+    "status": "Aprovado",
+    "id": "15355",
+    "knowledge_color": "#ead558",
+    "knowledge_color2": "#eedf76",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "date_limit_edition": "",
+    "title": "Teste1",
+    "modality": "Presencial",
+    "status": "Arquivado",
+    "id": "17236",
+    "knowledge_color": "#b61f30",
+    "knowledge_color2": "#d72636",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "date_limit_edition": "10/04/2021",
+    "title": "Teste2",
+    "modality": "EAD",
+    "status": "Arquivado",
+    "id": "18732",
+    "reponsibles": ["JM"],
+    "knowledge_color": "#72b356",
+    "knowledge_color2": "#7fbe5c",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  },
+  {
+    "date_limit_edition": "",
+    "title": "Teste3",
+    "modality": "Presencial",
+    "status": "Arquivado",
+    "id": "11857",
+    "reponsibles": ["JM", "UM"],
+    "knowledge_color": "#ead558",
+    "knowledge_color2": "#eedf76",
+    "knowledge_icon": "https://images.vexels.com/media/users/3/128092/isolated/preview/b93c119029c78b0106e34486e9c70f26-iacute-cone-desenhado-agrave-m-atilde-o-da-ideia-by-vexels.png"
+  }
+]
