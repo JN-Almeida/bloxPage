@@ -54,6 +54,9 @@ export const Container = styled.div`
       width: 37px;
       height: 37px;
       background-color: ${(props) => props.color};
+      &:not(first-child){
+        margin-right: -7px;
+      }
     }
   }
 `;

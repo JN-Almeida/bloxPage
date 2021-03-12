@@ -1,11 +1,11 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
-import Arquivados from '../Pages/Arquivados';
+import Home from '../Pages/Home';
 
 const Routes = () => (
   <Switch>
-    <Route path="/" exact component={Arquivados} />
+    <Route path="/" exact component={Home} />
   </Switch>
 );
 
